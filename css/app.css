@@ -75,12 +75,6 @@ h1 {
   max-height: 80px;
 }
 
-.max-height {
-  /*max-height: 400px;
-  overflow-y: scroll;
-  overflow-x: hidden;*/
-}
-
 #rushmore {
   position: relative;
   top:27px;

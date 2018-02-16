@@ -1,0 +1,97 @@
+/*
+* BLUE 1 #448AFF
+* BLUE 2 #2979FF
+* BLUE 3 #2962FF
+* ACCENT #76FF03
+*/
+
+
+html * {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.main-container{
+  margin: 0 auto;
+}
+
+.accent-one {
+  background-color: #2962FF;
+  color: #ffffff;
+}
+
+.accent-two {
+  background-color: #2979FF;
+  color: #ffffff;
+}
+
+.accent-three {
+  background-color: #448AFF;
+  color: #ffffff;
+}
+
+.box-container {
+  margin: 10px;
+}
+
+.material-box {
+  border: 1px solid #e0e0e0;
+  -webkit-box-shadow: 0px 10px 15px 5px #e0e0e0;
+  -moz-box-shadow: 0px 10px 15px 5px #e0e0e0;
+  box-shadow: 0px 10px 15px 5px #e0e0e0;
+}
+
+.material-box-head {
+  padding-top: 10px;
+  min-height: 35px;
+}
+
+.material-box-sub-head {
+  min-height: 35px;
+}
+
+.material-box-sub-sub-head {
+  min-height: 35px;
+}
+
+.margin-bottom{
+  margin-bottom: 10px;
+}
+
+.bottom-pad {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.avatar {
+  max-height: 80px;
+}
+
+.max-height {
+  /*max-height: 400px;
+  overflow-y: scroll;
+  overflow-x: hidden;*/
+}
+
+#rushmore {
+  position: relative;
+  top:27px;
+}
+
+#avian {
+  position: relative;
+  top:35px;
+}
+
+.middle {
+  vertical-align: middle;
+  vertical-align: -webkit-baseline-middle;
+}

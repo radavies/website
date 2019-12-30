@@ -53,14 +53,6 @@ h1 {
   min-height: 35px;
 }
 
-.material-box-sub-head {
-  min-height: 35px;
-}
-
-.material-box-sub-sub-head {
-  min-height: 35px;
-}
-
 .margin-bottom{
   margin-bottom: 10px;
 }
@@ -73,19 +65,4 @@ h1 {
 
 .avatar {
   max-height: 80px;
-}
-
-#rushmore {
-  position: relative;
-  top:27px;
-}
-
-#avian {
-  position: relative;
-  top:35px;
-}
-
-.middle {
-  vertical-align: middle;
-  vertical-align: -webkit-baseline-middle;
 }
